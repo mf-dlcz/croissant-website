@@ -1,0 +1,30 @@
+body {
+	max-width: 1000px;
+	margin: 0 auto;
+	background-color: bisque;
+}
+
+h1 {
+	text-align: center;
+}
+.links {
+	text-align: center;
+}
+a {
+	padding: 20px 25px;
+}
+p {
+	text-align: center;
+}
+.croissant-pic {
+	max-width: 900px;
+	display: block;
+	margin: 0 auto;
+	border: 3px black solid;
+	border-radius: 3px;
+	box-shadow: 12px 12px 1px 1px rgba(0, 0, 0, 0.096);
+}
+.contact-link:hover {
+	font-size: 18px;
+	color: white;
+}
