@@ -1,3 +1,21 @@
+@media (max-width: 768px) {
+	h1 {
+		color: #d35400;
+	}
+	p {
+		color: #d35400;
+		font-size: 15px;
+	}
+	a {
+		color: #d35400;
+		font-size: 14px;
+	}
+	.croissant-pic {
+		display: block;
+		max-width: 200px;
+	}
+}
+
 body {
 	background-color: bisque;
 }
