@@ -1,6 +1,4 @@
 body {
-	max-width: 1000px;
-	margin: 0 auto;
 	background-color: bisque;
 }
 
@@ -27,4 +25,8 @@ p {
 .contact-link:hover {
 	font-size: 18px;
 	color: white;
+}
+.container {
+	max-width: 1000px;
+	margin: 0 auto;
 }
